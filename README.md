@@ -1,6 +1,6 @@
 # Fast Analysis of Image Collection
-
 Supervisor: Dr. Jens Pontow
+
 Affiliation: Daimler Center for Automotive IT Innovations, Technical University of Berlin, Berlin, Germany.
 
 # Scope of your project
